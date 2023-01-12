@@ -1,3 +1,3 @@
 import 'package:flutter/material.dart';
 
-final darkTheme = ThemeData();
+final darkTheme = ThemeData(colorScheme: const ColorScheme.dark(secondary: Colors.red));
